@@ -27,7 +27,7 @@ import CardMenu from "components/CardMenu/CardMenu.jsx";
 import {novaVaga} from "routes.js";
 
 //VAGAS
-class TableList extends Component {
+class Vacancy extends Component {
 
   constructor(props) {
     super(props);
@@ -132,4 +132,4 @@ class TableList extends Component {
   }
 }
 
-export default TableList;
+export default Vacancy;

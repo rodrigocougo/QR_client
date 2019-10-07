@@ -10,7 +10,8 @@ import Form from "./Form";
 
 class App extends Component {
   state = {
-    fields: {}
+    fields: {}, 
+    response: ''
   };
 
   onChange = updatedValue => {
