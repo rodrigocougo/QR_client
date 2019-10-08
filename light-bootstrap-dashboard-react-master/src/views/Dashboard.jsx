@@ -57,7 +57,7 @@ class Dashboard extends Component {
                 statsText="Vagas Abertas"
                 statsValue="2.370"
                 statsIcon={<i className="fa fa-refresh" />}
-                statsIconText="Total de vagas abertas"
+                statsIconText="Total de vagas abertas xxx"
               />
             </Col>
             <Col lg={3} sm={6}>
